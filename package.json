@@ -1,0 +1,29 @@
+{
+  "name": "extensionchrome-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prebuild": "rm -rf dist .parcel-cache",
+    "watch": "parcel watch index.html",
+    "build": "parcel build index.html"
+  },
+  "index": {
+    "type": "git",
+    "url": "git+https://github.com/3P4R4/ExtensionChrome-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3P4R4/ExtensionChrome-Tailwind/issues"
+  },
+  "homepage": "https://github.com/3P4R4/ExtensionChrome-Tailwind#readme",
+  "dependencies": {
+    "parcel": "^2.7.0",
+    "tailwindcss": "^3.1.8"
+  },
+  "devDependencies": {
+    "parcel-reporter-static-files-copy": "^1.4.0",
+    "postcss-cli": "^10.0.0"
+  }
+}

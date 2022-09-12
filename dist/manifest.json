@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Nueva tabs extension",
+    "description": "Creando una nueva tabs de demostración en Google Chrome extension",
+    "action": {
+        "default_icon": "ico/ico.jpg"
+    },
+    "icons":{
+        "48": "ico/ico.jpg"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
+
