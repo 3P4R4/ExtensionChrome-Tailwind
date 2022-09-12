@@ -1,6 +1,6 @@
 5843
-68/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/package.json1662946262924501729 0
-66/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/index.html1662945825040204268 0
+68/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/package.json1662946288443799317 0
+66/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/index.html1662996429393015159 0
 111/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@jridgewell/source-map/dist/source-map.mjs1662944458750414481 0
 115/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@jridgewell/source-map/dist/source-map.mjs.map1662944458650419209 0
 102/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@jridgewell/source-map/dist/types1662944458754414293 1
@@ -167,7 +167,7 @@
 136/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-flow-scalar.d.ts1662944494260718926 0
 137/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-block-scalar.d.ts1662944494260718926 0
 135/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-block-scalar.js1662944494212721238 0
-71/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.html1662946267572373884 0
+71/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.html1662996434832995651 0
 128/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-end.d.ts1662944494260718926 0
 134/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-block-map.d.ts1662944494260718926 0
 132/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/dist/compose/resolve-block-seq.js1662944494216721045 0
@@ -473,7 +473,6 @@
 91/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/css-tree/data/index.js1662944458950405028 0
 85/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/css-tree/LICENSE1662944458510425827 0
 102/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/lmdb/dependencies/lz4/lib/lz4hc.h1662944459178394244 0
-83/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.a2adcff1.css.map1662946267576373774 0
 109/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-postcss/package.json1662944461310293359 0
 96/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/lightningcss/node/index.mjs1662944458882408242 0
 89/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/lightningcss/LICENSE1662944458858409377 0
@@ -1036,7 +1035,7 @@
 138/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/package.json1662944459358385731 0
 102/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/optimizer-image/native.js1662944461230297148 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/UY.js1662944459198393298 0
-55/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind1662946267564374104 1
+55/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind1662996434824995680 1
 101/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@nodelib/fs.scandir/out/index.js1662944458690417319 0
 102/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/electron-to-chromium/package.json1662944458758414104 0
 109/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/fast-glob/out/providers/filters/entry.js1662944458754414293 0
@@ -1468,7 +1467,7 @@
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/DO.js1662944459054400109 0
 97/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/resolve/test/node_path/x/ccc1662944458914406730 1
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/LU.js1662944459086398596 0
-72/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico/ico.jpg1662946267580373665 0
+72/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico/ico.jpg1662996434840995622 0
 87/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/source-map1662944460222344858 1
 96/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/type-fest/source/basic.d.ts1662944458622420532 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/MW.js1662944459094398218 0
@@ -1576,7 +1575,7 @@
 83/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/domhandler/lib1662944458694417129 1
 101/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@swc/helpers/lib/_await_value.js1662944458958404649 0
 113/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/workers/lib/process/ProcessWorker.js1662944459818363973 0
-74/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/manifest.json1662946267580373665 0
+74/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/manifest.json1662996434840995622 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/LB.js1662944459086398596 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/ZA.js1662944459210392731 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/source-map-js/lib/quick-sort.js1662944458614420911 0
@@ -1752,7 +1751,7 @@
 136/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module1662944459358385731 1
 111/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/supports-preserve-symlinks-flag/browser.js1662944458566423180 0
 90/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/yargs/locales/de.json1662944494000731457 0
-69/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/css/style.css1662945550866592240 0
+69/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/css/style.css1662993048097142261 0
 115/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/css-revert-value.js1662944459022401623 0
 106/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/resolve/test/node_path/x/aaa/index.js1662944458902407297 0
 120/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@swc/helpers/src/_tagged_template_literal_loose.mjs1662944459042400677 0
@@ -1805,7 +1804,7 @@
 109/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/node-resolver-core/lib/_empty.js1662944459338386677 0
 91/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/string-width/readme.md1662944493844738971 0
 84/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/is-json/LICENSE1662944458618420722 0
-60/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist1662946267580373665 1
+60/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist1662996434840995622 1
 95/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/color-convert/CHANGELOG.md1662944458550423936 0
 100/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/regions/ID.js1662944459074399163 0
 109/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/utility-types/dist/functional-helpers.js1662944458734415238 0
@@ -2931,6 +2930,7 @@
 119/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-babel/src/remapAstLocations.js1662944460470333121 0
 126/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/dom-serializer/node_modules/entities/lib/maps/legacy.json1662944458706416562 0
 114/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/css-reflections.js1662944459022401623 0
+79/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.8b8f430c.css1662996434832995651 0
 89/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/path-parse/README.md1662944458566423180 0
 112/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-js/lib/JSTransformer.js1662944460338339368 0
 118/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/css-scroll-behavior.js1662944459022401623 0
@@ -3048,7 +3048,6 @@
 103/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/core/src/ReporterRunner.js1662944462082256799 0
 131/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/postcss-cli/node_modules/yaml/browser/dist/schema/core/bool.js1662944494196722009 0
 119/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/prefers-color-scheme.js1662944459110397461 0
-79/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.a2adcff1.css1662946267572373884 0
 114/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/permissions-api.js1662944459102397839 0
 107/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/tailwindcss/scripts/rebuildFixtures.js1662944459066399542 0
 111/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/caniuse-lite/data/features/magnetometer.js1662944459086398596 0
@@ -3944,6 +3943,7 @@
 173/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/package.json1662944459358385731 0
 84/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/detect-libc/lib1662944458866408998 1
 99/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/detect-libc/lib/detect-libc.js1662944458866408998 0
+83/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/index.8b8f430c.css.map1662996434836995637 0
 91/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/detect-libc/.npmignore1662944458842410133 0
 79/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/source-map1662944458762413915 1
 103/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/core/lib/serializerCore.js1662944462082256799 0
@@ -4962,7 +4962,7 @@
 114/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/bundler-default/src/DefaultBundler.js1662944461686275554 0
 96/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/bundler-default/lib1662944461686275554 1
 97/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-posthtml1662944460498331797 1
-77/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico.848408ae.jpg1662946267572373884 0
+77/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico.848408ae.jpg1662996434832995651 0
 110/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-posthtml/package.json1662944460498331797 0
 92/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/is-extglob/package.json1662944458506426016 0
 101/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/transformer-posthtml/lib1662944460498331797 1
@@ -5529,7 +5529,7 @@
 105/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/watcher/src/watchman/BSER.cc1662944459422382703 0
 99/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/workers/src/backend.js1662944459814364162 0
 98/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/workers/src/Handle.js1662944459814364162 0
-64/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico1662946267580373665 1
+64/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/dist/ico1662996434840995622 1
 113/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/workers/src/process/ProcessWorker.js1662944459818363973 0
 90/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/domutils/lib/feeds.js1662944458558423557 0
 95/home/mendozalz/Escritorio/GIT/ExtensionChrome-Tailwind/node_modules/@parcel/workers/src/bus.js1662944459814364162 0
