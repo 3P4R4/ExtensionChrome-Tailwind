@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "prebuild": "rm -rf dist .parcel-cache",
-    "watch": "parcel watch index.html",
-    "build": "parcel build index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "index": {
     "type": "git",
@@ -19,13 +19,13 @@
   },
   "homepage": "https://github.com/3P4R4/ExtensionChrome-Tailwind#readme",
   "dependencies": {
-    "parcel": "^2.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tailwindcss": "^3.1.8"
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.0.4"
   },
   "devDependencies": {
-    "parcel-reporter-static-files-copy": "^1.4.0",
-    "postcss-cli": "^10.0.0"
+    "postcss-cli": "^10.0.0",
+    "@vitejs/plugin-react": "^2.0.0"
   }
 }
